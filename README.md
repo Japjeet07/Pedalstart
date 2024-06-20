@@ -1,5 +1,24 @@
 To install the req-npm install
+
+
+
+
+
+
+
+
+
+
 Start json-server by -> npx run json-server --watch --port 8000
+
+
+
+
+
+
+
+
+
 Start react-npm run start
 
 
