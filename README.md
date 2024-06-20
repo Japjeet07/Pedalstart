@@ -1,18 +1,20 @@
 Landing page
-file:///home/lenovo/Pictures/Screenshots/Screenshot%20from%202024-06-21%2001-29-08.png
 
+
+
+![Screenshot from 2024-06-21 01-29-08](https://github.com/Japjeet07/Pedalstart/assets/172357227/179b858e-90a2-420b-999e-393bf9a410a0)
 
 
 
 
 Task Details
-file:///home/lenovo/Pictures/Screenshots/Screenshot%20from%202024-06-21%2001-29-18.png
 
+![Screenshot from 2024-06-21 01-29-18](https://github.com/Japjeet07/Pedalstart/assets/172357227/69b9145e-dbfd-47da-97a1-aa0ab0085d2e)
 
 
 New task
-file:///home/lenovo/Pictures/Screenshots/Screenshot%20from%202024-06-21%2001-29-44.png
 
+![Screenshot from 2024-06-21 01-29-44](https://github.com/Japjeet07/Pedalstart/assets/172357227/34e139e6-6118-47c2-aeff-afeab4ae09d4)
 
 
 Delete task
@@ -23,6 +25,6 @@ Delete task
 
 
 
-file:///home/lenovo/Pictures/Screenshots/Screenshot%20from%202024-06-21%2001-29-38.png
+![Screenshot from 2024-06-21 01-29-38](https://github.com/Japjeet07/Pedalstart/assets/172357227/2a84f70d-c140-4945-a01c-b78ad134a8e2)
 
 
